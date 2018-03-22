@@ -45,6 +45,8 @@ A collection of awesome sensenet ECM packages, tools, resources and shiny things
 - [SenseNet Subtree Lucene Fixer](https://github.com/VargaJoe/SenseNet-SubTree-Lucene-Fixer) - Custom ContentCollection view to compare repository content structure and lucene index structure of a subtree, and try to fix any differences.
 - [SenseNet Preview Cleaner](https://github.com/VargaJoe/SenseNet-Preview-Cleaner) - Tool cleaning preview images.
 - [RepoSync](https://github.com/marosvolgyiz/RepoSync) -  A framework to let you syncronize sensenet content between sensenet ECM and other systems.
+- [SNIntra](https://github.com/edgardovbak/sn_intra_skins) -  A simple skin system for sensenet intranet
+
 
 ## Documentation
 
